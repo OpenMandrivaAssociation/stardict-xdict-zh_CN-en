@@ -2,7 +2,7 @@
 %define release %mkrel 4
 %define dict_format_version	2.4.2
 
-Summary:	xdict Simplified Chinese -> English dictionary for stardict 2
+Summary:	Xdict Simplified Chinese -> English dictionary for stardict 2
 Name:		stardict-xdict-zh_CN-en
 Version:	%{version}
 Release:	%{release}
